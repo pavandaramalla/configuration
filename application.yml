@@ -1,5 +1,1 @@
- microservice:
-  insurance-provider:
-   endpoints:
-    endpoint:
-     uri: http://localhost:9093/service/plans
+uri: http://localhost:9093/service/plans
